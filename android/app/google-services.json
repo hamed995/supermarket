@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853162698577",
+    "project_id": "supermarket-5335d",
+    "storage_bucket": "supermarket-5335d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853162698577:android:cd7d2625f0628dac4dd570",
+        "android_client_info": {
+          "package_name": "com.saveli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDtzxoBZb_-2F9Va7DRYN1DYpqlaS95Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
